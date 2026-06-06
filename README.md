@@ -121,7 +121,7 @@ plt.show()
 
 
 ## Optimum Global Thesholding using Otsu's Method
-<img width="206" height="213" alt="image" src="https://github.com/user-attachments/assets/7230f5de-5afb-46ec-9baa-644f8f1d9a79" />
+<img width="205" height="248" alt="image" src="https://github.com/user-attachments/assets/5711da2e-07ee-426b-a8f0-14709404bc22" />
 
 
 
