@@ -114,19 +114,16 @@ plt.show()
 
 ### Global Thresholding
 
-<img width="367" height="327" alt="image" src="https://github.com/user-attachments/assets/e1a95767-d324-48ec-a898-c8de87197312" />
+<img width="716" height="673" alt="image" src="https://github.com/user-attachments/assets/fbb7529c-8ffd-435a-8548-ef863147b587" />
 
 ### Adaptive Thresholding
-<img width="314" height="329" alt="image" src="https://github.com/user-attachments/assets/f5b3174f-c390-402a-945f-ba876d6736e0" />
+
+<img width="716" height="673" alt="image" src="https://github.com/user-attachments/assets/ec39235c-bf89-4b1e-ad57-4d55bb952d96" />
 
 
 ## Optimum Global Thesholding using Otsu's Method
-<img width="205" height="248" alt="image" src="https://github.com/user-attachments/assets/5711da2e-07ee-426b-a8f0-14709404bc22" />
 
-
-
-
-
+<img width="716" height="673" alt="image" src="https://github.com/user-attachments/assets/abe4188f-9b56-4872-8cb3-e86e58d24b18" />
 
 
 ## Result
